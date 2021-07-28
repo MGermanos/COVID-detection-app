@@ -26,7 +26,7 @@ The model and the GUI were built using Python.
 ### Usage
 After downloading the program, run the script titled `App.py` and th application will start.
 You will see the home page of the application, where simple instructions on how to use the application are written.
-Once you click on the button at the bottom of th epage titled `Select image`, a prompt will appear asking for the X-Ray image of the patient.
+Once you click on the button at the bottom of the page titled `Select image`, a prompt will appear asking for the X-Ray image of the patient.
 After selecting the image, the program will use the pre-trained model to make a diagnosis for the patient.
 The diagnosis will appear as a pop-up notification.
 
