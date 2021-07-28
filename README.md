@@ -19,4 +19,9 @@ The architecture of our model used is the VGG-19 model with three fully connecte
 ## Getting Started
 ### Requirements
 The model and the GUI were built using Python.
+- Python 3.7
+- numpy
+- wxPython
+- Tensorflow
+- Keras
 
