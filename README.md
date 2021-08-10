@@ -28,5 +28,3 @@ Once you click on the button at the bottom of the page titled `Select image`, a 
 After selecting the image, the program will use the pre-trained model to make a diagnosis for the patient.
 The diagnosis will appear as a pop-up notification.
 
-### Demo
-
