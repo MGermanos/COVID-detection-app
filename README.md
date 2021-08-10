@@ -7,8 +7,6 @@ A tool to help healthcare workers identify COVID-19 in X-Ray images
 - [Getting Startrted](#requirements)
   * [Requirements](#requirements)
   * [Usage](#Usage)
-  * [Demo](#demo)
-
 
 ## Overview
 To help in the fight against the COVID-19 pandemic, we developed a tool that utilizes transfer learning via the convolutional neural network VGG19 to detect the presence of COVID-19 in chest X-Ray images. This tool reads as input chest X-Ray image and returns a diagnosis on whether the patient suffers from COVID-19, pneumonia, or neither.
